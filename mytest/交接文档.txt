@@ -1,0 +1,102 @@
+卡券接口文档：
+http://118.190.1.37:4999/web/#/item/password/2?page_id=72&redirect=%2F2%3Fpage_id%3D72
+账号密码： stgp  stgp123
+调试后台账号：13025882178   123456
+普通商户测试：17666060240   123456
+
+正式环境：http://quan.yunpos123.com/Admin/Index
+后台账号：13025882178   cysoft 
+后台管理员账号： admin cysoft123
+
+前端UI框架：https://www.layui.com/doc/
+
+Mybatis.net
+
+软件服务器：\\192.168.1.62   a   a
+
+
+
+
+RF系统
+测试账号： 00001  1 
+
+
+
+Data Source=192.168.1.139;Initial Catalog=cy_member;User ID=sa;Password=123456
+
+消息队列：
+http://192.168.1.140:15898/
+http://192.168.1.140:15672/#/queues
+cyesb
+123
+
+
+
+
+
+
+公众号： https://mp.weixin.qq.com/
+
+开放平台：https://open.weixin.qq.com
+3484628035@qq.com
+james136   
+
+美物联福利社
+chaoyingsoft
+密码：james13600457825
+AppID(应用ID) wx4da448cd29927cb7
+AppSecret(应用密钥) 10b12ffd8ad8702c9bfb775f0c5c9816
+
+无人值守便利店
+gzthgy@chaoying.com.cn  
+cysoft6666
+appid: wx907acf15e7f592d3
+
+
+
+RF系统前端框架：http://jqweui.com/components#msg
+
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误		签名时出错: 未在路径 C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\signtool.exe 找到 SignTool.exe。	RF系统激活码生成器	
+
+
+866121020780893	
+
+
+
+C8微信
+测试账号： 00001   000000	
+正式环境：http://lessolife.com.cn
+日志：http://lessolife.com.cn/admin/loglist
+外网测试环境：http://wxvip.yundinghuo.cn/
+
+开放平台： https://open.weixin.qq.com/
+3484628035@qq.com
+james136   
+
+领尚 
+813936238@qq.com
+
+     lessoyiwu2128
+
+
+云POS正式环境：http://app.pos.cn/account/login
+测试账号：18826474520 密码：123456
+
+
+订货易发卷账号
+账号：13352830691  密码：cysoft  商户号：3377004031037440
+
+万国小厨账号
+账号：18826275990  密码：cysoft  商户号：3622682929737728
+
+yunpos测试账号：15018225496  123456
+微商城测试账号：18680495532  123456
+
+微商城手机端地址：http://192.168.1.31:5155/MobileMall/MobileLogin?openid=18680495532&id_masteruser=3672160914215168&id_shop=1
+
+yunpos手机端地址：http://192.168.1.31:1122/MobileMall/MobileLogin?openid=15018226342&id_masteruser=3f2f1539-e94f-4835-9b89-f34d5d81b59c&id_shop=1912265500001904
+
+力合日志地址：http://47.112.171.162:4152/index.html#/home/logQuery
+
+yunpos日志地址：http://app.pos.cn:4152/index.html#/home/logQuery
